@@ -1,6 +1,6 @@
 # All Restaurants in Charlotte-Concord-Gastonia (Metro), NC-SC, US
 
-> Free BeamStation sample export with 554 rows and masked direct-contact fields.
+> Free BeamStation sample export with 551 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `227522` |
 | Location | Charlotte-Concord-Gastonia, NC-SC |
 | Category | Restaurants |
-| Full dataset size | 5,542 records |
-| Free sample size | 554 records (10.0%) |
-| Last export | 2026-04-09T19:50:02.595747+00:00 |
+| Full dataset size | 5,511 records |
+| Free sample size | 551 records (10.0%) |
+| Last export | 2026-04-16T23:26:43.804708+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-charlotte-concord-gastonia-metro-nc-sc-us-sample-227522/releases/download/sample-latest/beamstation_227522_restaurants-us-charlotteconcordgastoniancsc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
