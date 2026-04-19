@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Restaurant dataset for the Charlotte-Concord-Gastonia metro spanning North Carolina and South Carolina. Covers the Carolina Piedmont's fast-growing dining scene, filtered by the Restaurants category group. Includes business profiles, ratings, reviews, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Charlotte-Concord-Gastonia (Metro), NC-SC, US",
-  "export_job_id": "926080f3-a6a0-45a0-836b-25d9323856cb",
+  "export_job_id": "99f59f06-ad43-4092-923d-1ceb20e8db1c",
   "github_org": "Beamstation-Datasets",
   "id_short": 227522,
   "location_name": "Charlotte-Concord-Gastonia, NC-SC",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-charlotte-concord-gastonia-metro-nc-sc-us-sample-227522",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/227522/beamstation_227522_restaurants-us-charlotteconcordgastoniancsc_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
-  "sample_records": 554,
-  "sample_sha256": "7f0c6d4022583ce3f0a94f391c7373d80a3780a31cad626d36efff8b139730be",
-  "sample_size_bytes": 1953711,
-  "total_records": 5542,
-  "updated_at": "2026-04-09T19:50:02.595747+00:00"
+  "sample_records": 551,
+  "sample_sha256": "283a86a0df08e55ca4b7900d400dee569e23c5447477e51af6b49721269fee11",
+  "sample_size_bytes": 1940029,
+  "total_records": 5511,
+  "updated_at": "2026-04-16T23:26:43.804708+00:00"
 }
