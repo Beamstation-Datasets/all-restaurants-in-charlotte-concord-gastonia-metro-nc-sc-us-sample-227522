@@ -1,12 +1,12 @@
 {
-  "export_job_id": "99f59f06-ad43-4092-923d-1ceb20e8db1c",
+  "export_job_id": "dd449c4b-2922-466d-89b2-ff3cebfb260a",
   "id_short": 227522,
-  "published_at": "2026-04-19T19:50:28Z",
+  "published_at": "2026-04-23T19:54:03Z",
   "repo_name": "all-restaurants-in-charlotte-concord-gastonia-metro-nc-sc-us-sample-227522",
   "sample_asset_name": "beamstation_227522_restaurants-us-charlotteconcordgastoniancsc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/227522/beamstation_227522_restaurants-us-charlotteconcordgastoniancsc_SAMPLE_DIST.csv",
-  "sample_records": 551,
-  "sample_sha256": "283a86a0df08e55ca4b7900d400dee569e23c5447477e51af6b49721269fee11",
-  "sample_size_bytes": 1940029,
-  "total_records": 5511
+  "sample_records": 199,
+  "sample_sha256": "b57d269255cfde1c19cba26b2c4149b3b231fbc5ddee6ecd21a23b4e4cf6fc6a",
+  "sample_size_bytes": 753927,
+  "total_records": 1992
 }
